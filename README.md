@@ -1,2 +1,5 @@
-# q.te-library
-Modular library for QlikView (and QLikSense
+# q.te Library
+
+A modular library for QlikView (and QLikSense)
+
+Say "cute library".
